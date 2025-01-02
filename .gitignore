@@ -1,0 +1,23 @@
+# Environment
+.env
+.env.*
+!.env.example
+
+# Bundler
+.bundle/
+vendor/bundle/
+
+# Databases
+*.db
+*.sqlite3
+
+# Logs and temp files
+log/*
+tmp/*
+*.log
+
+# OS files
+.DS_Store
+
+# IDE/Editor
+.cursorfiles 
